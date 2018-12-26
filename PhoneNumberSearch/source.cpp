@@ -1,3 +1,6 @@
+// Michaela Vuklisevicova
+// Use of map data structure to create efficient look-up method using a phone number data field for a file with 50,000 records.
+
 #include <iostream>
 #include <fstream>
 #include <string>
